@@ -1,1 +1,3 @@
-THis is the added item.
+This is the added item.
+
+This is the second added line.
